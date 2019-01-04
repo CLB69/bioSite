@@ -82,3 +82,14 @@ figcaption {
     color: white;
     text-align: center;
 }
+div .navbar {
+    overflow: hidden;
+    position: fixed;
+    top: 0;
+    width: 100%;
+    background-color: gray;
+}
+div .amb{
+    margin-top: 70px;
+}
+
