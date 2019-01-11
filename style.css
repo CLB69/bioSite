@@ -86,10 +86,15 @@ div .navbar {
     overflow: hidden;
     position: fixed;
     top: 0;
-    width: 100%;
+    width: 99%;
+    height: auto;	
     background-color: gray;
 }
-div .amb{
-    margin-top: 70px;
+h1.amb{
+    margin-top: 60px;
 }
+h1.bus{
+	margin-top: 80px;
+}
+	
 
