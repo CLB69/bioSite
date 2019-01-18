@@ -96,5 +96,11 @@ h1.amb{
 h1.bus{
 	margin-top: 80px;
 }
-	
+i{
+    color: white;
+}
+div.navbar a{
+    color: black;
+    font-weight:700;
+}	
 
