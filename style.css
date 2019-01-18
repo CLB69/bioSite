@@ -87,20 +87,19 @@ div .navbar {
     position: fixed;
     top: 0;
     width: 99%;
-    height: auto;	
+    height: auto;
     background-color: gray;
 }
 h1.amb{
     margin-top: 60px;
 }
 h1.bus{
-	margin-top: 80px;
+    margin-top: 80px;
 }
 i{
     color: white;
 }
 div.navbar a{
-    color: blue;
+    color: black;
     font-weight:700;
-}	
-
+}
