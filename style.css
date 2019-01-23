@@ -57,13 +57,13 @@ p.kids{
 a:link {
     text-decoration: none;
     font-family: 'Oswald', 'Verdana, Arial', sans-serif;
-    color: yellow;
+    color: gray;
 }
-a:visited {
+/*a:visited {
     text-decoration: none;
     font-family: 'Oswald', 'Verdana, Arial', sans-serif;
     color: deeppink;
-}
+}*/
 a:hover {
     text-decoration: underline;
     font-family: 'Oswald', 'Verdana, Arial', sans-serif;
@@ -102,4 +102,16 @@ i{
 div.navbar a{
     color: black;
     font-weight:700;
+}
+p.url a{
+    color:gray;
+}
+p.url a:hover{
+    color:limegreen;
+}
+p.bttt a{
+    color:gray;
+}
+p.bttt a:hover{
+    color:limegreen;
 }
